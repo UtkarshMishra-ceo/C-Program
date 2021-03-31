@@ -2,5 +2,7 @@
 #include<conio.h>
 void main()
 {
-   printf("hellow world")
+   int a;
+   scanf("%d",&a);
+   printf("hellow world");
 }
